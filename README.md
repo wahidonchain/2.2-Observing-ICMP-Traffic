@@ -57,4 +57,4 @@ This section outlines the process of using Powershell within the Windows 10 Virt
 <img src="https://imgur.com/d3DXlgU.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/wahidonchain/Azure-Compute-and-Networking
